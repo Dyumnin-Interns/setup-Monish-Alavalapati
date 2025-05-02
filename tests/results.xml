@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1746159325" />
+    <testcase name="dut_test" classname="dut_test" file="/home/monish/setup-Monish-Alavalapati/tests/dut_test.py" lineno="21" time="0.001417398452758789" sim_time_ns="14.001" ratio_time="9877.956316904962" />
+  </testsuite>
+</testsuites>
